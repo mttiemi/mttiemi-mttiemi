@@ -21,9 +21,7 @@ Aqui estão algumas das tecnologias que utilizo nos meus projetos:
 ### 📫 Vamos nos conectar?
 Fique à vontade para entrar em contato comigo para parcerias ou apenas para trocar uma ideia sobre tech!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SUO_LINK_DO_LINKEDIN_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@profissional.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://github.com/mttiemi)
 ---
 
 *“Quando o aprendizado é contínuo, você não procura a sorte: ela quem te procura!”*
