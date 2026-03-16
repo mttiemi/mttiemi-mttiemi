@@ -22,7 +22,7 @@ Aqui estão algumas das tecnologias que utilizo nos meus projetos:
 Fique à vontade para entrar em contato comigo para parcerias ou apenas para trocar uma ideia sobre tech!
 
 <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
-  <img src="contato.png" alt="mttiemi" width="40" height="40">
+  <img src="contato.png" alt="https://github.com/mttiemi" width="40" height="40">
 </a>
 ---
 
